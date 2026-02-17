@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AutomateAI: Intelligent Workflow Orchestrator",
+  "description": "A powerful AI automation platform that allows users to design, execute, and monitor multi-step workflows powered by Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
